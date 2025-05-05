@@ -33,6 +33,6 @@ namespace custom {
      */
     //% block
     export function fib(value: number): number {
-        return value + 1;
+        return value + 2;
     }
 }
